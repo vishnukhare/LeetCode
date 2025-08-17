@@ -21,15 +21,18 @@
 | [0198-house-robber](https://github.com/vishnukhare/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/vishnukhare/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vishnukhare/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/vishnukhare/LeetCode/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vishnukhare/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vishnukhare/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/vishnukhare/LeetCode/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishnukhare/LeetCode/tree/master/0001-two-sum) |
+| [0525-contiguous-array](https://github.com/vishnukhare/LeetCode/tree/master/0525-contiguous-array) |
 ## Design
 |  |
 | ------- |

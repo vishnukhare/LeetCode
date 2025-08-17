@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishnukhare/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vishnukhare/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

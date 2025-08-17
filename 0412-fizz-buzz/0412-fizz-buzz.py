@@ -1,4 +1,17 @@
 class Solution:
-  def fizzBuzz(self, n: int) -> list[str]:
-    d = {3: 'Fizz', 5: 'Buzz'}
-    return [''.join([d[k] for k in d if i % k == 0]) or str(i) for i in range(1, n + 1)]
+    def fizzBuzz(self, n: int) -> List[str]:
+        res = [0] * (n+1)
+        for i in range(0, n+1):
+            if i == 0:
+                continue
+            else:
+                if i % 3 == 0 and i % 5 == 0:
+                    res[i] = 'FizzBuzz'
+                elif i % 3 == 0:
+                    res[i] = 'Fizz'
+                elif i % 5 == 0:
+                    res[i] = 'Buzz'
+                else:
+                    res[i] = str(i)
+
+        return res[1:]

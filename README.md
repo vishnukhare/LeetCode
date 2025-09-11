@@ -10,6 +10,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishnukhare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
+| [2887-sort-vowels-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishnukhare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/vishnukhare/LeetCode/tree/master/0198-house-robber) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/vishnukhare/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/vishnukhare/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 ## Queue
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/vishnukhare/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/vishnukhare/LeetCode/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |

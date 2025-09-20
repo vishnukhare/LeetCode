@@ -1,18 +1,17 @@
 class Solution:
     def calculateScore(self, s: str) -> int:
-        def mirror(c):
-            return chr(ord('z') - (ord(c) - ord('a')))
+        res = 0
+        hashmap = defaultdict(list)
+
         
-        from collections import defaultdict
-        stacks = defaultdict(list)  
-        score = 0
-        
-        for i, ch in enumerate(s):
-            m = mirror(ch)
-            if stacks[m]:  
-                j = stacks[m].pop()
-                score += i - j
+        for i in range(len(s)):
+            curr = ord(s[i]) - ord('a')
+            mirror = 25 - curr
+            if hashmap[mirror]:
+                res += i - hashmap[mirror].pop()
             else:
-                stacks[ch].append(i)
+                hashmap[curr].append(i)
+        return res
+
+
         
-        return score

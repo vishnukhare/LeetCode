@@ -12,6 +12,7 @@
 | [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
 | [2887-sort-vowels-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3634-find-mirror-score-of-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0001-two-sum](https://github.com/vishnukhare/LeetCode/tree/master/0001-two-sum) |
 | [0525-contiguous-array](https://github.com/vishnukhare/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishnukhare/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3634-find-mirror-score-of-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3827-implement-router](https://github.com/vishnukhare/LeetCode/tree/master/3827-implement-router) |
 ## Design
 |  |
@@ -57,6 +59,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/vishnukhare/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3634-find-mirror-score-of-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [3634-find-mirror-score-of-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 <!---LeetCode Topics End-->

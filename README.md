@@ -11,6 +11,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vishnukhare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
 | [2887-sort-vowels-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
+| [3462-vowels-game-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -72,4 +74,12 @@
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/vishnukhare/LeetCode/tree/master/3827-implement-router) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->

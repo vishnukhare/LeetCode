@@ -25,6 +25,7 @@
 | [0303-range-sum-query-immutable](https://github.com/vishnukhare/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/vishnukhare/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishnukhare/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3827-implement-router](https://github.com/vishnukhare/LeetCode/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,10 +39,12 @@
 | [0001-two-sum](https://github.com/vishnukhare/LeetCode/tree/master/0001-two-sum) |
 | [0525-contiguous-array](https://github.com/vishnukhare/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vishnukhare/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [3827-implement-router](https://github.com/vishnukhare/LeetCode/tree/master/3827-implement-router) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vishnukhare/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [3827-implement-router](https://github.com/vishnukhare/LeetCode/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +57,16 @@
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/vishnukhare/LeetCode/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/vishnukhare/LeetCode/tree/master/3827-implement-router) |
+## Ordered Set
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/vishnukhare/LeetCode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->

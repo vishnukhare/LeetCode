@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vishnukhare/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0079-word-search](https://github.com/vishnukhare/LeetCode/tree/master/0079-word-search) |
 | [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
 | [2887-sort-vowels-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishnukhare/LeetCode/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/vishnukhare/LeetCode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/vishnukhare/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/vishnukhare/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vishnukhare/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -89,4 +91,16 @@
 |  |
 | ------- |
 | [3634-find-mirror-score-of-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vishnukhare/LeetCode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vishnukhare/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vishnukhare/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

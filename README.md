@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vishnukhare/LeetCode/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/vishnukhare/LeetCode/tree/master/0412-fizz-buzz) |
 | [3462-vowels-game-in-a-string](https://github.com/vishnukhare/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation

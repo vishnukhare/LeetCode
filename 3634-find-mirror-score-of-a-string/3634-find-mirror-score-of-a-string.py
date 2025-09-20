@@ -4,13 +4,14 @@ class Solution:
         hashmap = defaultdict(list)
 
         
-        for i in range(len(s)):
-            curr = ord(s[i]) - ord('a')
+        for i, ch in enumerate(s):
+            curr = ord(ch) - ord('a')
             mirror = 25 - curr
             if hashmap[mirror]:
                 res += i - hashmap[mirror].pop()
             else:
                 hashmap[curr].append(i)
+
         return res
 
 
